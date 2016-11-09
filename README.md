@@ -1,0 +1,1 @@
+# JogoAdivinha-oParte1.py
